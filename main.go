@@ -13,10 +13,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/poc/chiawallet"
+	"github.com/fatzero/mass-core/logging"
+	"github.com/fatzero/mass-core/massutil"
+	"github.com/fatzero/mass-core/poc"
+	"github.com/fatzero/mass-core/poc/chiawallet"
 	"github.com/urfave/cli/v2"
 )
 
